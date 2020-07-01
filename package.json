@@ -1,0 +1,27 @@
+{
+  "name": "eleventy-research",
+  "version": "0.1.0",
+  "description": "A research framework for Eleventy, inspired by Roam",
+  "scripts": {
+    "build": "eleventy",
+    "serve": "eleventy --serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sebastiandedeyne/eleventy-research.git"
+  },
+  "author": {
+    "name": "Sebastian De Deyne",
+    "email": "sebastiandedeyne@gmail.com",
+    "url": "https://sebastiandedeyne.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastiandedeyne/eleventy-research/issues"
+  },
+  "homepage": "https://github.com/sebastiandedeyne/eleventy-research#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
